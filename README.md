@@ -9,7 +9,9 @@
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Hasnain-KH&style=for-the-badge&color=00F7FF"/>
+  <img src="https://komarev.com/ghpvc/?username=Hasnain-KH&label=Profile+Views&color=0E75B6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Hasnain-KH?label=Followers&style=for-the-badge&color=7F00FF" />
+  <img src="https://img.shields.io/github/stars/Hasnain-KH?affiliations=OWNER&style=for-the-badge&color=00F7FF" />
 </p>
 
 ## 💫 About Me
