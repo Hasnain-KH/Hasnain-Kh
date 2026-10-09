@@ -86,18 +86,8 @@ A web application project designed to support coaching-centre management and adm
 
 **Tech:** React.js, JavaScript, Firebase / Firestore.
 
-### 🧮 JavaScript Calculator
 
-A practice project for strengthening JavaScript fundamentals and interactive UI development.
-
-* Built with HTML, CSS and JavaScript.
-* Focus on event handling, calculations and responsive layout.
-
-**Tech:** HTML, CSS, JavaScript.
-
-> Project descriptions reflect the intended scope of these projects. Update them as features are completed.
-
-## 📚 Backend Development Journey
+##  Backend Development Journey
 
 I'm progressing from frontend development into backend engineering, focusing on understanding how real applications work behind the scenes.
 
@@ -144,9 +134,6 @@ I'm progressing from frontend development into backend engineering, focusing on 
   </a>
   <a href="https://www.linkedin.com/in/muhammad-hasnain-47512538b">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/Hasnain-KH">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
