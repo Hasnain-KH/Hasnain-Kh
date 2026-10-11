@@ -128,19 +128,23 @@ I'm progressing from frontend development into backend engineering, focusing on 
 
 ## 🤝 Connect With Me
 
+## 🤝 Connect With Me
+
 <p align="center">
   <a href="mailto:webdevhasnain@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="tel:+923142832602">
+    <img src="https://img.shields.io/badge/Phone-Contact%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
+  </a>
   <a href="https://www.linkedin.com/in/muhammad-hasnain-47512538b">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Hasnain-KH">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
 <p align="center">
   <i>"Consistent learning, practical projects, and continuous improvement — one step at a time."</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:0EA5E9&height=110&section=footer" width="100%" alt="Footer banner" />
 </p>
